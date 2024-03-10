@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on -- [Quiz Application](https://github.com/AbhranilNXT/QuizApp)
 
-- 🌱 I’m currently learning -- **Jetpack Compose, Android Canvas, Spring Boot**
+- 🌱 I’m currently learning -- **Android Canvas, Spring Boot**
 
 - 👯 I’m looking to collaborate on -- **Any Android-related projects**
 
