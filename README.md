@@ -18,7 +18,7 @@
 
 - 📫 How to reach me -- **abhranilnxt@gmail.com**
 
-- 📄 Know about my experiences -- [My LinkedIn](https://www.linkedin.com/in/abhranildasgupta/)
+- 📄 Know about my experiences -- [bit.ly/AbhranilResume](https://bit.ly/AbhranilResume)
 
 - ⚡ Fun fact **I love learning about new tech stacks !**
 
