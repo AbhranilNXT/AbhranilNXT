@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/abhranilnxt" target="blank"><img src="https://img.shields.io/twitter/follow/abhranilnxt?logo=twitter&style=for-the-badge" alt="abhranilnxt" /></a> </p>
 
-- 🔭 I’m currently working on -- [Quiz Application](https://github.com/AbhranilNXT/QuizApp)
+- 🔭 I’m currently working on -- [Kokoro List](https://github.com/AbhranilNXT/Kokoro-List)
 
-- 🌱 I’m currently learning -- **Android Canvas, Spring Boot**
+- 🌱 I’m currently learning -- **Android Canvas, Spring Boot, Firebase Realtime for Android**
 
 - 👯 I’m looking to collaborate on -- **Any Android-related projects**
 
-- 🤝 I’m looking for help with -- **An Anime Application which will serve as a watch list for fellow weebs !**
+- 🤝 I’m looking for help with -- **Making major changes in the Kokoro List Application !**
 
 - 👨‍💻 All of my projects are available at -- [My Repositories](https://github.com/AbhranilNXT?tab=repositories)
 
