@@ -18,7 +18,7 @@
 
 - 📫 How to reach me -- **abhranilnxt@gmail.com**
 
-- 📄 Know about my experiences -- [bit.ly/AbhranilResume](https://bit.ly/AbhranilResume)
+- 📄 Know about my experiences -- [bit.ly/AbhranilResumePDF](https://bit.ly/AbhranilResumePDF))
 
 - ⚡ Fun fact **I love learning about new tech stacks !**
 
