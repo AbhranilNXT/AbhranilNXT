@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhranilnxt" target="blank"><img src="https://img.shields.io/twitter/follow/abhranilnxt?logo=twitter&style=for-the-badge" alt="abhranilnxt" /></a> </p>
 
-- 🔭 I’m currently working on -- [Kokoro List](https://github.com/AbhranilNXT/Kokoro-List)
+- 🔭 I’m currently working on -- [Kotlin Multiplatform Project](https://github.com/AbhranilNXT/BlogKMP)
 
 - 🌱 I’m currently learning -- **Android Canvas,Kotlin Multiplatform, Ktor**
 
