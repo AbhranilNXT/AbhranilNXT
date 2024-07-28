@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on -- [Kokoro List](https://github.com/AbhranilNXT/Kokoro-List)
 
-- 🌱 I’m currently learning -- **Android Canvas, Spring Boot, Firebase Realtime for Android**
+- 🌱 I’m currently learning -- **Android Canvas,Kotlin Multiplatform, Ktor**
 
 - 👯 I’m looking to collaborate on -- **Any Android-related projects**
 
