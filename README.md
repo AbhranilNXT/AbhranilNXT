@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">Hi 👋, I'm Abhranil Dasgupta</h1>
-<h3 align="center">A passionate Android Developer currently studying in 3rd Year CSE and currently the Co-Lead (Android Team) at IoT Lab KIIT</h3>
+<h3 align="center">A passionate Android Developer currently studying in 3rd Year CSE and currently the Android Lead at IoT Lab KIIT</h3>
 
 <p align="left"> <a href="https://twitter.com/abhranilnxt" target="blank"><img src="https://img.shields.io/twitter/follow/abhranilnxt?logo=twitter&style=for-the-badge" alt="abhranilnxt" /></a> </p>
 
