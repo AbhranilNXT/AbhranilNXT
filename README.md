@@ -40,4 +40,4 @@
 <p><a href="https://www.buymeacoffee.com/AbhranilNXT"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Abhranil" /></a></p>
 
 <h3 align="left">Steam Stats:</h3>
-<p><a href="https://steamcommunity.com/id/AbhranilNXT/"> <img align ="centre" width="400" height="140" src="https://card.yuy1n.io/card/76561199089908314/tokyonight,en,badge,group,badges,games,screenshots"></p>
+<p><a href="https://steamcommunity.com/id/AbhranilNXT/"> <img align ="centre" width="400" height="140" src="https://card.yuy1n.io/card/76561199089908314/dark,en,badge,group,bg-game,badges,games,screenshots"></p>
