@@ -41,3 +41,6 @@
 
 <h3 align="left">Steam Stats:</h3>
 <p><a href="https://steamcommunity.com/id/AbhranilNXT/"> <img align ="centre" width="400" height="140" src="https://card.yuy1n.io/card/76561199089908314/dark,en,badge,group,bg-game,badges,games,screenshots"></p>
+
+<h3 align="left">PlayStation Stats:</h3>
+<p></p><a href="https://psnprofiles.com/AbhranilNXT"><img src="https://card.psnprofiles.com/2/AbhranilNXT.png" border="0"></a><p>
